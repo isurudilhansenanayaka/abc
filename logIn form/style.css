@@ -45,7 +45,13 @@ label{
 
 	width: 30%;
 	text-align: right
-
+select{
+	border: 1px;
+	border-radius: 3px;
+	padding: 8px;
+	width: 20%;
+	margin-right: 7px;
+}
 
 
 
