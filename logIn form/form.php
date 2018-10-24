@@ -63,7 +63,28 @@
 		       	<br><br>
 		       	
 		       	<label for="country">Country:</label>
-
+		       	<select name="country" required>
+				    <option>Australia</option>
+			        <option>Bangladesh</option>
+			        <option>Brazil</option>
+		    	    <option>Canada</option>
+					<option>China</option>
+		  	        <option>France</option>
+		  		    <option>Germany</option>
+		            <option>India</option>
+		            <option>Italy</option>
+			        <option>Japan</option>
+			        <option>Malaysia</option>
+		    	    <option>Mexico</option>
+					<option>New Zealand</option>
+					<option>North Korea</option>
+					<option>Pakistan</option>
+		  	        <option>Russia</option>
+		  		    <option>Singapore</option>
+		            <option>Sri Lanka</option>
+			        <option>United Kingdom (UK)</option>
+			        <option>United States of America (USA)</option>
+				</select>
 				<br><br>
 
 				<label for="email">E-mail:</label>
