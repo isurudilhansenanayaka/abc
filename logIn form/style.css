@@ -78,6 +78,14 @@ button[type="button"]{
 	width: 12%;
 }
 
-
+div.footer{
+	background-color: #de8704;
+	padding: 7px;
+	text-align: right;
+	height: 30px;
+	width: 42%;
+	margin: auto;
+	border-radius: 0px 0px 4px 4px;
+}
 
 
