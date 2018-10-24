@@ -66,7 +66,22 @@
 
 				<br><br>
 
+				<label for="email">E-mail:</label>
+				<input type="email" name="email" placeholder="Enter Email" required><br><br>
 				
+				<label for="phone">Phone:</label>
+				<input type="text" name="phone" placeholder="Enter Phone Number" pattern="[0-9]{10}" required><br><br>
+				
+				<label for="password">Password</label>
+				<input type="password" name="pwd" placeholder="Enter Password" minlength="8" required><br><br>
+				
+				<label for="cpassword">Confirm Password:</label>
+				<input type="password" name="cpwd" placeholder="Confirm Password" required>
+				<br><br>
+
+				<label for="cbox"></label>
+				<input type="checkbox" name="cbox" required>I agree to the Terms of Use
+				<br><br>
 		</div>
 		
 		<div class="footer">
