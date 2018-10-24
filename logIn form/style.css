@@ -1,0 +1,28 @@
+h2{
+	background-color:#de8704;
+	text-align: left;
+	color: #f8df37;
+	height: 30px;
+	width: 42%;
+	padding: 7px;
+	margin: auto;
+	font-family: Roboto, 'Arial', Tahoma, sans-serif;
+	border-radius: 4px 4px 0px 0px;
+}
+
+div.container {
+    background-color: #202437;
+    text-align: left;
+    padding: 20px;
+   	color: #f8df37;
+   	height: 520px;
+   	width: 40%;
+   	margin: auto;
+   	border-color: #f09300; 
+   	font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 85.25%;
+}
+;
+	display: inline-block;
+	margin-right: 20px;
+}
