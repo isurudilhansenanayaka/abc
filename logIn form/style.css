@@ -60,7 +60,14 @@ select[name="country"]{
 	width: 64%;
 }
 
-
+button[type="submit"]{
+	background-color: #56bf5f;
+	border-color: #56bf5f;
+	color: white;
+	border-radius: 4px;
+	padding: 7px;
+	width: 12%;
+}
 
 
 
