@@ -22,7 +22,21 @@
 				<input type="text" name="screenname" placeholder="Enter Screen Name" required><br><br>
 				
 				<label for="dob">Date of Birth:</label>
-				
+				<select name="dobMonth" required>
+					<!-- <option value="">Month</option> -->
+					<option>January</option>
+				    <option>February</option>
+			        <option>March</option>
+			        <option>April</option>
+			        <option>May</option>
+		    	    <option>June</option>
+					<option>July</option>
+					<option>August</option>
+					<option>September</option>
+		  	        <option>October</option>
+		  		    <option>November</option>
+		            <option>December</option>
+				</select>
 
 				<select name="dobDay" required>
 					<!-- <option value="">Day</option> -->
