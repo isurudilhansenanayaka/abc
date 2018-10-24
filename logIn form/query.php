@@ -36,5 +36,13 @@
 		header ("refresh:1; url=form.php");
 	}
 
+	if(isset($_POST['select'])){
 	
+		$sql = "SELECT * FROM user WHERE id=1";
+		$result = mysqli_query($con, $sql);
+
+		while ($row=mysqli_fetch_array($result)){
+			echo($row['first_name']);
+		}
+	}
 ?>
