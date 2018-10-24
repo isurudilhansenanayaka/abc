@@ -26,3 +26,32 @@ div.container {
 	display: inline-block;
 	margin-right: 20px;
 }
+input{
+	border: 1px;
+	border-radius: 3px;
+	padding: 8px;
+	width: 62%;
+}
+
+input[type="radio"]{
+	width: 5%;
+}
+
+input[type="checkbox"]{
+	width: 5%;	
+}
+
+label{
+
+	width: 30%;
+	text-align: right
+
+
+
+
+
+
+
+
+
+
