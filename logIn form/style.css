@@ -69,7 +69,14 @@ button[type="submit"]{
 	width: 12%;
 }
 
-
+button[type="button"]{
+	background-color: #cd4c41;
+	border-color: #cd4c41;
+	color: white;
+	border-radius: 4px;
+	padding: 7px;
+	width: 12%;
+}
 
 
 
