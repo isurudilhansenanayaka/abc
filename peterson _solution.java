@@ -50,7 +50,8 @@
         System.out.println("Start Processes");
         Thread a= new aThread();
         Thread b = new bThread();
-        
+        a.start(); //start process i
+        b.start(); //start process j
     }
         public static void main(String[] args){
         CriticalSection cSec = new CriticalSection();
