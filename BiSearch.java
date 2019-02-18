@@ -1,4 +1,4 @@
-class BinarySearch { 
+class BiSearch { 
 	int binarySearch(int arr[], int l, int r, int x) 
 	{ 
 		if (r >= l) { 
@@ -11,10 +11,10 @@ class BinarySearch {
 		}  
 		return -1; 
 	} 
-
+	//main method
 	public static void main(String args[]) 
 	{ 
-		BinarySearch z = new BinarySearch(); 
+		BiSearch z = new BiSearch(); 
 		int arr[] = { 1, 3, 9, 10, 15 }; 
 		int n = arr.length; 
 		int x = 10; 
